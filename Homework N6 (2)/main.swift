@@ -9,3 +9,9 @@ import Foundation
 
 print("Hello, World!")
 
+print("Напишите своё имя(enter),фамилия(enter),страну(enter) и номер(enter)")
+
+var user1 = User()
+user1.find()
+
+
